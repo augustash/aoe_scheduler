@@ -3,6 +3,8 @@
     <modules>
         <Aoe_Scheduler>
             <version>0.4.3</version>
+            <ashup
+                remote="https://s3.amazonaws.com/augustash/mage/aoe_scheduler-latest.zip" />
         </Aoe_Scheduler>
     </modules>
 
@@ -160,10 +162,4 @@
             </modules>
         </suite>
     </phpunit>
-
 </config>
-
-
-
-
-
